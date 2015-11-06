@@ -1,0 +1,20 @@
+{
+	"name": "angular",
+	"version": "1.0.0",
+	"dependencies": {
+		"angular": "latest",
+		"angular-route": "latest",
+		"font-awesome": "latest",
+		"animate.css": "latest",
+		"highcharts-ng": "latest",
+		"angular-gridster":"latest",
+		"is_js":"latest",
+		"datejs":"latest",
+		"mathjs":"latest",
+		"proj4":"latest",
+		"xml2js":"latest",
+		"animate.css":"latest",
+		"angular-openlayers-directive":"latest",
+		"angular-snap":"latest"
+	}
+}
